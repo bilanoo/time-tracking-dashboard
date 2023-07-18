@@ -13,3 +13,11 @@
   height: 900px;
   background-color: hsl(226, 43%, 10%);
 }
+
+.all-time-cards-container {
+  display: flex;
+  flex-direction: column;
+  width: 17rem;
+  height: 100%;
+  background-color: white;
+}
