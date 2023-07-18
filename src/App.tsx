@@ -19,21 +19,18 @@ function App() {
     <>
       <div className="dashboard-container">
         <ProfileCard setTimecardInformation={setTimecardInformation} />
-        <div className="all-time-cards-container">
-          {timecardInformation &&
-            timecardInformation.map((eachTimeCard) => (
-              <TimeTrackerCard
-                key={eachTimeCard.reportType}
-                reportType={eachTimeCard.reportType}
-                timeCardIcon={eachTimeCard.timeCardIcon}
-                amountOfHours={eachTimeCard.amountOfHours}
-                previousWeekAmountOfHours={
-                  eachTimeCard.previousWeekAmountOfHours
-                }
-                backgroundColor={eachTimeCard.backgroundColor}
-              />
-            ))}
-        </div>
+
+        {timecardInformation &&
+          timecardInformation.map((eachTimeCard) => (
+            <TimeTrackerCard
+              key={eachTimeCard.reportType}
+              reportType={eachTimeCard.reportType}
+              timeCardIcon={eachTimeCard.timeCardIcon}
+              amountOfHours={eachTimeCard.amountOfHours}
+              previousWeekAmountOfHours={eachTimeCard.previousWeekAmountOfHours}
+              backgroundColor={eachTimeCard.backgroundColor}
+            />
+          ))}
       </div>
     </>
   );

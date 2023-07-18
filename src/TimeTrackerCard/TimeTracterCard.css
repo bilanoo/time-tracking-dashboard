@@ -3,8 +3,8 @@
   grid-template-rows: 25% 75%;
   grid-template-columns: 1fr;
   height: 7rem;
+  width: 100%;
   border-radius: 9px;
-  margin-top: 20px;
 }
 .time-card-icon-container {
   grid-column: 2/4;
