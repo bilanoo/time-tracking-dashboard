@@ -1,0 +1,136 @@
+{
+  "timeTrackerData": {
+    "daily": [
+      {
+        "reportType": "Work",
+        "timeCardIcon": "src/images/icon-work.svg",
+        "amountOfHours": "32",
+        "previousWeekAmountOfHours": "36",
+        "backgroundColor": "hsl(15, 100%, 70%)"
+      },
+      {
+        "reportType": "Play",
+        "timeCardIcon": "src/images/icon-play.svg",
+        "amountOfHours": "10",
+        "previousWeekAmountOfHours": "8",
+        "backgroundColor": "hsl(195, 74%, 62%)"
+      },
+      {
+        "reportType": "Study",
+        "timeCardIcon": "src/images/icon-study.svg",
+        "amountOfHours": "4",
+        "previousWeekAmountOfHours": "7",
+        "backgroundColor": "hsl(348, 100%, 68%)"
+      },
+      {
+        "reportType": "Exercise",
+        "timeCardIcon": "src/images/icon-exercise.svg",
+        "amountOfHours": "4",
+        "previousWeekAmountOfHours": "5",
+        "backgroundColor": "hsl(145, 58%, 55%)"
+      },
+      {
+        "reportType": "Social",
+        "timeCardIcon": "src/images/icon-social.svg",
+        "amountOfHours": "5",
+        "previousWeekAmountOfHours": "10",
+        "backgroundColor": "hsl(264, 64%, 52%)"
+      },
+      {
+        "reportType": "Self Care",
+        "timeCardIcon": "src/images/icon-self-care.svg",
+        "amountOfHours": "2",
+        "previousWeekAmountOfHours": "2",
+        "backgroundColor": "hsl(43, 84%, 65%)"
+      }
+    ],
+    "weekly": [
+      {
+        "reportType": "Work",
+        "timeCardIcon": "src/images/icon-work.svg",
+        "amountOfHours": "29",
+        "previousWeekAmountOfHours": "20",
+        "backgroundColor": "hsl(15, 100%, 70%)"
+      },
+      {
+        "reportType": "Play",
+        "timeCardIcon": "src/images/icon-play.svg",
+        "amountOfHours": "4",
+        "previousWeekAmountOfHours": "8",
+        "backgroundColor": "hsl(195, 74%, 62%)"
+      },
+      {
+        "reportType": "Study",
+        "timeCardIcon": "src/images/icon-study.svg",
+        "amountOfHours": "6",
+        "previousWeekAmountOfHours": "10",
+        "backgroundColor": "hsl(348, 100%, 68%)"
+      },
+      {
+        "reportType": "Exercise",
+        "timeCardIcon": "src/images/icon-exercise.svg",
+        "amountOfHours": "14",
+        "previousWeekAmountOfHours": "5",
+        "backgroundColor": "hsl(145, 58%, 55%)"
+      },
+      {
+        "reportType": "Social",
+        "timeCardIcon": "src/images/icon-social.svg",
+        "amountOfHours": "9",
+        "previousWeekAmountOfHours": "6",
+        "backgroundColor": "hsl(264, 64%, 52%)"
+      },
+      {
+        "reportType": "Self Care",
+        "timeCardIcon": "src/images/icon-self-care.svg",
+        "amountOfHours": "7",
+        "previousWeekAmountOfHours": "10",
+        "backgroundColor": "hsl(43, 84%, 65%)"
+      }
+    ],
+    "monthly": [
+      {
+        "reportType": "Work",
+        "timeCardIcon": "src/images/icon-work.svg",
+        "amountOfHours": "12",
+        "previousWeekAmountOfHours": "7",
+        "backgroundColor": "hsl(15, 100%, 70%)"
+      },
+      {
+        "reportType": "Play",
+        "timeCardIcon": "src/images/icon-play.svg",
+        "amountOfHours": "7",
+        "previousWeekAmountOfHours": "10",
+        "backgroundColor": "hsl(195, 74%, 62%)"
+      },
+      {
+        "reportType": "Study",
+        "timeCardIcon": "src/images/icon-study.svg",
+        "amountOfHours": "9",
+        "previousWeekAmountOfHours": "11",
+        "backgroundColor": "hsl(348, 100%, 68%)"
+      },
+      {
+        "reportType": "Exercise",
+        "timeCardIcon": "src/images/icon-exercise.svg",
+        "amountOfHours": "18",
+        "previousWeekAmountOfHours": "9",
+        "backgroundColor": "hsl(145, 58%, 55%)"
+      },
+      {
+        "reportType": "Social",
+        "timeCardIcon": "src/images/icon-social.svg",
+        "amountOfHours": "19",
+        "previousWeekAmountOfHours": "4",
+        "backgroundColor": "hsl(264, 64%, 52%)"
+      },
+      {
+        "reportType": "Self Care",
+        "timeCardIcon": "src/images/icon-self-care.svg",
+        "amountOfHours": "10",
+        "previousWeekAmountOfHours": "12",
+        "backgroundColor": "hsl(43, 84%, 65%)"
+      }
+    ]
+  }
+}

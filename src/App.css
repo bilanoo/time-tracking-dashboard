@@ -15,9 +15,11 @@
 }
 
 .all-time-cards-container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(7, 1fr);
+  justify-content: center;
+  row-gap: 2rem;
   width: 17rem;
   height: 100%;
-  background-color: white;
 }
