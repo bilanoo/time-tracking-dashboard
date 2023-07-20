@@ -56,7 +56,6 @@
   width: 100%;
   margin-top: auto;
   margin-bottom: auto;
-  height: 30px;
 }
 
 .daily-report {
@@ -83,6 +82,6 @@
     height: 17rem;
     grid-row: 1/3;
     margin-right: 40px;
-    width: 17rem;
+    width: 10rem;
   }
 }
